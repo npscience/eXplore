@@ -10,3 +10,18 @@ What is implemented now:
 
 What we still want to work on:
 - Dynamic xml generation based on user 23andMe data
+
+# Getting Started
+
+Be sure to install node.js which is used to run the code. Once you have node.js installed:
+
+```bash
+git clone https://github.com/pjshort/eXplore
+cd eXplore
+cd lens-explore
+npm install
+
+node server.js
+```
+
+The taste preferences article will display on port 4001 (http://127.0.0.1:4001/)
