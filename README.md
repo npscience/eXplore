@@ -15,18 +15,18 @@ What we still want to work on:
 
 Be sure to install node.js which is used to run the code. Once you have node.js installed:
 
-1. Clone the repository (feel free to fork and play around!)
+Clone the repository (feel free to fork and play around!)
 ```bash
 git clone https://github.com/pjshort/eXplore
 ```
 
-2. Install any dependencies
+Install any dependencies
 ```bash
 cd eXplore
 cd lens-explore
 npm install
 ```
-3. Run the server (visible on http://127.0.0.1:4001/)
+Run the server (visible on http://127.0.0.1:4001/)
 
 ```bash
 node server.js
