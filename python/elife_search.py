@@ -26,8 +26,11 @@ def eLifeSearch(rsid):
                    'date_published': item["published"]}
         results.append(res_dict)
 
+    print(results)
+
     return results
 
 
 if __name__ == "__main__":
     eLifeSearch("rs1743292")
+    eLifeSearch("rs72921001")

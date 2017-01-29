@@ -15,3 +15,4 @@ if __name__ == "__main__":
 	EntrezSearch("rs11540652")
 	EntrezSearch("rs121912652")
 	EntrezSearch("rs121912653")
+	EntrezSearch("rs72921001")

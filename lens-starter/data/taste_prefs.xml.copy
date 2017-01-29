@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article article-type="research-article" dtd-version="1.1d1" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <front>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">00778</article-id>
+            <article-id pub-id-type="doi">None</article-id>
+            <article-categories>
+                <subj-group subj-group-type="display-channel">
+                    <subject>eXplore</subject>
+                </subj-group>
+                <subj-group subj-group-type="heading">
+                    <subject>Personal Genomics</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>Impact of Genetics on Taste Preferences</article-title>
+            </title-group>
+            <contrib-group>
+                <contrib contrib-type="author" equal-contrib="yes" id="author-4813">
+                    <name>
+                        <surname>Short</surname>
+                        <given-names>Patrick</given-names>
+                    </name>
+                </contrib>
+                <contrib contrib-type="author" equal-contrib="yes" id="author-4814">
+                    <name>
+                        <surname>Jones</surname>
+                        <given-names>Will</given-names>
+                    </name>
+                </contrib>
+                <contrib contrib-type="author" id="author-4815">
+                    <name>
+                        <surname>Guzzo</surname>
+                        <given-names>Charlotte</given-names>
+                    </name>
+                </contrib>
+            </contrib-group>
+            <pub-date date-type="pub" publication-format="electronic">
+                <day>28</day>
+                <month>01</month>
+                <year>2017</year>
+            </pub-date>
+            <pub-date pub-type="collection">
+                <year>2017</year>
+            </pub-date>
+            <volume>1</volume>
+            <elocation-id>eXplore1</elocation-id>
+            <history>
+                <date date-type="received">
+                    <day>28</day>
+                    <month>01</month>
+                    <year>2017</year>
+                </date>
+            </history>
+        </article-meta>
+    </front>
+    <body>
+        <sec id="s2" sec-type="results">
+            <title>Coriander tastes like soap?</title>
+            <sec id="s2-1">
+		<p>There are a few SNPs that have been associated with taste preferences:</p>
+		<p>Coriander tastes, to some people, like soap:</p>
+		<p>rs72921001</p>
+            </sec>
+	</sec>
+    </body>
+	<sec sec-type="additional-information">
+            <title>Additional information</title>
+	</sec>
+</article>
