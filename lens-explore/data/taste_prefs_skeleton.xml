@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article article-type="research-article" dtd-version="1.1d1" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <front>
+        <journal-meta>
+            <publisher>
+                <publisher-name>heterogeneous</publisher-name>
+            </publisher>
+        </journal-meta>
+        <article-meta>
+            <article-id pub-id-type="publisher-id">00778</article-id>
+            <article-categories>
+                <subj-group subj-group-type="display-channel">
+                    <subject>eXplore</subject>
+                </subj-group>
+                <subj-group subj-group-type="heading">
+                    <subject>Personal Genomics</subject>
+                </subj-group>
+            </article-categories>
+            <title-group>
+                <article-title>How Genetics Influences Taste Preferences</article-title>
+            </title-group>
+        </article-meta>
+    </front>
+    <body>
+        <sec id="s1-1" sec-type="results">
+            <title>How does your genome impact taste preferences?</title>
+		<p>Perception of taste is controlled in large part by a complex combination of chemical reactions happening on your <xref ref-type="fig" rid="fig1">tongue</xref><fig id="fig1" position="float"><caption><title></title><p></p><p><bold>The tongue is a wild place.</bold><ext-link ext-link-type="uri" xlink:href="http://www.intelligentdental.com/wp-content/uploads/2011/12/tong3.jpg"></ext-link></p></caption><graphic xlink:href="http://www.intelligentdental.com/wp-content/uploads/2011/12/tong3.jpg" /></fig> .</p>
+		<p>There are several dozen different genes that encode taste receptors which fall broadly into two families (bitter and sweet). In the distant past, bitter taste receptors were essential to prevent us from eating poisonous things - but today, humans are much more tolerant to variation in this genes. Over the past decade, scientists have used genome-sequencing to study taste preferences and identify the genetic variation underlying these preferences.</p>
+
+        </sec>
+        <sec id="s1-2" sec-type="results">
+            <title>Does coriander taste like soap?</title>
+		<p>A research paper published in 2012 explained it well:</p>
+        <p>"The leaves of the Coriandrum sativum plant, known as cilantro or coriander, are widely used in many cuisines around the world. However, far from being a benign culinary herb, cilantro can be polarizing—many people love it while others claim that it tastes or smells foul, often like soap or dirt. This soapy or pungent aroma is largely attributed to several aldehydes present in cilantro. Cilantro preference is suspected to have a genetic component, yet to date nothing is known about specific mechanisms." <xref rid="bib2">Eriksson, 2012.</xref></p>
+
+        <p>These researchers identified a specific genetic variant (a single letter difference in ~3 billion) that contributed to this phenomenon. This genetic variant is described by a specific identifier - <xref ref-type="fig" rid="fig2">rs72921001</xref><fig id="fig2" position="float"><caption><title></title><p></p><p><bold>Description of genotype.</bold><ext-link ext-link-type="uri" xlink:href="http://www.heterogeneous.co.uk/static/images/corianderCC.jpg"></ext-link></p></caption><graphic xlink:href="http://www.heterogeneous.co.uk/static/images/corianderCC.jpg" /></fig> - click to see what predisposition you have for coriander soapiness.</p>
+
+        </sec>
+        <sec id="s1-3" sec-type="results">
+            <title>Salty or Sweet Snacks?</title>
+            <p>Genetic testing company 23andMe asked users a simple survey question to try to understand why some people reach for a salty snack and others have more of a sweet tooth:</p>
+            <p>“When you’re in the mood for a snack, what kind of snack do you usually reach for?”
+(Sweet/Salty or savory/Both/Neither)</p>
+            <p>Participants were split about 50/50 between preference for salty and sweet. Two sites in the genome were identified that show the greatest association with snack preference:</p>
+            <p><xref ref-type="fig" rid="fig3">rs838133</xref><fig id="fig3" position="float"><caption><title></title><p></p><p><bold>rs838133</bold><ext-link ext-link-type="uri" xlink:href="http://www.heterogeneous.co.uk/static/images/{rs838133}.jpg"></ext-link></p></caption><graphic xlink:href="http://www.heterogeneous.co.uk/static/images/{rs838133}.jpg" /></fig> is the identifier for a single position near a gene called 'FGF21' which encodes a hormone that regulates blood sugar levels. </p>
+
+
+        </sec>
+
+        <sec id="s1-3" sec-type="results">
+            <title>Most genetic variation has a very small effect!</title>
+            <p>Most changes to your DNA have very small, or no effect at all. With the two examples above, even though there is a significant effect of genetic variation on coriander soapiness or sweet/salty preference, the effect is only 10-20% difference. Many complex traits (taste, behavior, etc) have dozens or hundreds of different genetic variants that contribute in small, but meaningful ways.</p>
+
+        </sec>
+
+    </body>
+ <back>
+
+        <ref-list>
+            <title>References</title>
+
+            <ref id="bib2">
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>et. al</surname>
+                            <given-names>Eriksson</given-names>
+                        </name>
+
+                    </person-group>
+                    <year>2012</year>
+                    <article-title>A genetic variant near olfactory receptor genes influences cilantro preference</article-title>
+                    <source>Biomed Central</source>
+                    <source>Biophys J</source>
+                    <volume>103</volume>
+                    <fpage>L17</fpage>
+                    <lpage>9</lpage>
+                    <pub-id pub-id-type="doi">10.1186/2044-7248-1-22</pub-id>
+                </element-citation>
+            </ref>
+
+        </ref-list>
+    </back>
+</article>
