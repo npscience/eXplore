@@ -24,7 +24,7 @@
     <body>
         <sec id="s1-1" sec-type="results">
             <title>How does your genome impact taste preferences?</title>
-		<p>Perception of taste is controlled in large part by a complex combination of chemical reactions happening on your <xref ref-type="fig" rid="fig1">tongue</xref><fig id="fig1" position="float"><caption><title></title><p></p><p><bold>The tongue is a wild place.</bold><ext-link ext-link-type="uri" xlink:href="http://www.intelligentdental.com/wp-content/uploads/2011/12/tong3.jpg"></ext-link></p></caption><graphic xlink:href="http://www.intelligentdental.com/wp-content/uploads/2011/12/tong3.jpg" /></fig> .</p>
+		<p>Perception of taste is controlled in large part by a complex combination of chemical reactions happening on your <xref ref-type="fig" rid="fig1">tongue</xref><fig id="fig1" position="float"><caption><title></title><p></p><p><bold>The tongue is a wild place.</bold><text-link ext-link-type="uri" xlink:href="http://www.intelligentdental.com/wp-content/uploads/2011/12/tong3.jpg"></text-link></p></caption><graphic xlink:href="http://www.intelligentdental.com/wp-content/uploads/2011/12/tong3.jpg" /></fig> .</p>
 		<p>There are several dozen different genes that encode taste receptors which fall broadly into two families (bitter and sweet). In the distant past, bitter taste receptors were essential to prevent us from eating poisonous things - but today, humans are much more tolerant to variation in this genes. Over the past decade, scientists have used genome-sequencing to study taste preferences and identify the genetic variation underlying these preferences.</p>
 
         </sec>
